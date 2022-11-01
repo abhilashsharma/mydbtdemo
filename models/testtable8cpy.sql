@@ -3,4 +3,4 @@
   file_format='delta'
 ) }}
 select *
-from testtable1
+from testascatalog.default.testtable1
