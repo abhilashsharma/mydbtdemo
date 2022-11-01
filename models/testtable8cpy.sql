@@ -3,4 +3,4 @@
   file_format='delta'
 ) }}
 select *
-from testtable8
+from testtable1
